@@ -13,9 +13,9 @@ public class EmailConfig {
 	private String smtpServer;
 	@Value("${smtpPort}")
 	private String smtpPort;
-	@Value("hacipoke@gmail.com")
+	@Value("emlakburada.patika@gmail.com")
 	private String username;
-	@Value("eben1234***")
+	@Value("EmlakBurada2022")
 	private String password;
 	@Value("${from}")
 	private String from;
