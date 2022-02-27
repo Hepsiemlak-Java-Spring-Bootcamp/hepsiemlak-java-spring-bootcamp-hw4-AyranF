@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Emlakburada-Banner/src/main/java"/>
+	<classpathentry kind="src" path="Emlakburada-Banner/src/test/java"/>
+	<classpathentry kind="src" path="EmlakBurada-Email/src/main/java"/>
+	<classpathentry kind="src" path="EmlakBurada-Email/src/test/java"/>
+	<classpathentry kind="src" path="Emlakburada/src/main/java"/>
+	<classpathentry kind="src" path="Emlakburada/src/test/java"/>
+	<classpathentry kind="lib" path="Emlakburada-Banner/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="EmlakBurada-Email/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="Emlakburada/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="output" path="EmlakBurada-Email/target/classes"/>
+</classpath>
