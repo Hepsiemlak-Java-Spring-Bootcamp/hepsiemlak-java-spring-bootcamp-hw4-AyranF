@@ -59,7 +59,7 @@ public class EmailService {
 
 			@Override
 			protected PasswordAuthentication getPasswordAuthentication() {
-				return new PasswordAuthentication("hacipoke@gmail.com", "eben1234***");
+				return new PasswordAuthentication("emlakburada.patika@gmail.com", "EmlakBurada2022");
 			}
 		});
 
